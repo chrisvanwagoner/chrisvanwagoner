@@ -1,3 +1,5 @@
+Senior Developer
+
 ### Experience
 - Currently at [Social Driver](https://www.socialdriver.com/)  
 - Formerly at [BuzzShift](https://buzzshift.com/)
